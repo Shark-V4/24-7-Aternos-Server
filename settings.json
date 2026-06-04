@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "KurkureMomosGotAytys.aternos.me",
+    "port": 61822,
     "version": "1.20.1",
     "try-creative": false
   },
